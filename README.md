@@ -1,2 +1,3 @@
-# GUIs
-trying something new i guess
+# GUIs with tkinter
+A calculator desktop application with gui interface 
+With tkinter.
